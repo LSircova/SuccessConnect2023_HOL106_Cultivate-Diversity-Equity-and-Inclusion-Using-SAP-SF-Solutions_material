@@ -1,0 +1,9 @@
+[OPERATOR],id,effectiveStartDate,values.externalCode,values.nonUniqueExternalCode,values.parentPickListValue.externalCode,values.label.defaultValue,values.label.en_US,values.label.de_DE,values.label.en_GB,values.status,values.optionId,values.minVal,values.maxVal,values.lValue,values.rValue,values.optValue
+"Supported operators: Delimit, Clear and Delete",Picklist.Code,Picklist.Effective Start Date,External Code,Non-unique External Code,Picklist Value.External Code,Default Value,US English,Deutsch (German),English UK (English UK),Status(Valid Values : A/I   A for Active  I for Inactive  ),Option ID,Min value,Max value,Sort Order (L Value),R Value,Value
+,gender_DEU,1/1/1900,DEU-D,DEU-D,,Non-Binary,Non-Binary,Divers,Non-Binary,A,,,,,,
+,gender_DEU,1/1/1900,DEU-U,DEU-U,,Undeclared,Undeclared,Keine Angabe,Undeclared,A,,,,,,
+,gender_DEU,1/1/1900,F,F,,Female,Female,Weiblich,Female,A,,,,,,
+,gender_DEU,1/1/1900,M,M,,Male,Male,Männlich,Male,A,,,,,,
+,gender_USA,1/1/1900,F,F,,Female,Female,Weiblich,Female,A,,,,,,
+,gender_USA,1/1/1900,M,M,,Male,Male,Männlich,Male,A,,,,,,
+,gender_USA,1/1/1900,USA-X,USA-X,,Non-Binary,Non-Binary,Divers,Non-Binary,A,,,,,,

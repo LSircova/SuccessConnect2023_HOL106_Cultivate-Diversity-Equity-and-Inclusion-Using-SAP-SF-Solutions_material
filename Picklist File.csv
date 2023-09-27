@@ -1,0 +1,4 @@
+[OPERATOR],id,legacyPickListId,parentPickList.id,displayOrder,name,status,effectiveStartDate
+"Supported operators: Delimit, Clear and Delete",Code,Legacy Picklist ID,Picklist.Code,Display Order(Valid Values : ALPHA/NUMERIC/PROCESSING_ORDER   ALPHA for Alphabetical  NUMERIC for Numeric  PROCESSING_ORDER for Custom  ),Name,Status(Valid Values : A/I   A for Active  I for Inactive  ),Effective Start Date
+,gender_DEU,gender_DEU,,ALPHA,gender_DEU,A,1/1/1900
+,gender_USA,gender_USA,,ALPHA,gender_USA,A,1/1/1900
